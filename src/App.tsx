@@ -1,9 +1,9 @@
-import { useState } from "react";
+import AppLayout from "./AppLayout";
 
 function App() {
   return (
     <>
-      <h4>Test</h4>
+      <AppLayout />
     </>
   );
 }
