@@ -8,8 +8,8 @@ const AppHeader = () => {
             <Image
             src='https://i.pinimg.com/564x/c4/40/2e/c4402e170ca57f93895becb4a561b55a.jpg'
             alt="mail-list-logo"
-            width={100}
-            height={100}
+            width={80}
+            height={80}
             />
         </header>
     </div>
